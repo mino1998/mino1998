@@ -1,7 +1,7 @@
 ### Lee Min Ho 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmino1998&count_bg=%23D797EB&title_bg=%23BB47D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmino1998&count_bg=%23D797EB&title_bg=%23BB47D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-![Mino1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mino1998&show_icons=true&theme=radical)
+<!-- ![Mino1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mino1998&show_icons=true&theme=radical) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhlee12)](https://solved.ac/mhlee12/)
 # 💪Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
