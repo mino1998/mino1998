@@ -1,5 +1,5 @@
 ## Hi, I'm Min Ho, call me sonic 👋
-### I'm gonna be a business analyst 👨‍💻
+### I'm gonna be a Business Analyst 👨‍💻
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmino1998&count_bg=%23D797EB&title_bg=%23BB47D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!-- ![Mino1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mino1998&show_icons=true&theme=radical) -->
