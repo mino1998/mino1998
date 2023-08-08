@@ -1,4 +1,4 @@
-## Hi, I'm Min Ho, sonic 👋
+## Hi, I'm Min Ho, Sonic ⚡
 ### I'm gonna be a Business Analyst 👨‍💻
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmino1998&count_bg=%23D797EB&title_bg=%23BB47D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
