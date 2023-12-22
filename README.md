@@ -13,8 +13,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white) <br>
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?&style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=white)
 
 
 
