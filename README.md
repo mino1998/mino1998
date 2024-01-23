@@ -1,7 +1,7 @@
 ## Hi, I'm Min Ho, Sonic ⚡
 ### I'm gonna be a Data Specialist 👨‍💻
 #### My Blog 
-https://sonic-super.tistory.com/
+https://sonic-super.tistory.com/ <br><br>
 https://velog.io/@mhlee5894/posts
 #### My Portfolio
 https://sonic-super.tistory.com/22
